@@ -1,0 +1,142 @@
+{
+	"activeStudent": [{
+			"id": "1",
+			"studentName": "tarun rajput",
+			"image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/05/09/821449-john-abraham.jpg",
+			"class": "computer",
+			"address": "delhi ring rode",
+			"emailId": "tarun@gmail.com",
+			"phone": "9088990987"
+		},
+		{
+			"id": "2",
+			"studentName": "Rahul sharma",
+			"image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/05/09/821449-john-abraham.jpg",
+			"class": "math",
+			"address": "patna ring rode",
+			"emailId": "rahul11@gmail.com",
+			"phone": "8769098762"
+		},
+		{
+			"id": "3",
+			"studentName": "mahi patel",
+			"image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/05/09/821449-john-abraham.jpg",
+			"class": "cube",
+			"address": "surat ring rode",
+			"emailId": "mahi21@gmail.com",
+			"phone": "8899000099"
+		},
+		{
+			"id": "4",
+			"studentName": "jigar panchal",
+			"image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/05/09/821449-john-abraham.jpg",
+			"class": "computer",
+			"address": "bardoli ring rode",
+			"emailId": "jigar@gmail.com",
+			"phone": "9876543210"
+		},
+		{
+			"id": "5",
+			"studentName": "anil sharma",
+			"image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/05/09/821449-john-abraham.jpg",
+			"class": "computer class",
+			"address": "delhi ring rode",
+			"emailId": "anil@gmail.com",
+			"phone": "8989909078"
+		}
+
+	],
+	"blockStudent": [{
+			"id": "1",
+			"studentName": "mohan",
+			"image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/sonu-sood-3029-23-05-2019-02-39-35.jpg",
+			"class": "computer",
+			"address": "delhi ring rode",
+			"emailId": "tarun@gmail.com",
+			"phone": "9088990987"
+		},
+		{
+			"id": "2",
+			"studentName": "aman sharma",
+			"image": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/5/18/w1200X800/Sonu_Sood.jpg",
+			"class": "math",
+			"address": "patna ring rode",
+			"emailId": "rahul11@gmail.com",
+			"phone": "8769098762"
+		},
+		{
+			"id": "3",
+			"studentName": "mahi patel",
+			"image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/05/09/821449-john-abraham.jpg",
+			"class": "cube",
+			"address": "surat ring rode",
+			"emailId": "mahi21@gmail.com",
+			"phone": "8899000099"
+		},
+		{
+			"id": "4",
+			"studentName": "jigar panchal",
+			"image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/05/09/821449-john-abraham.jpg",
+			"class": "computer",
+			"address": "bardoli ring rode",
+			"emailId": "jigar@gmail.com",
+			"phone": "9876543210"
+		},
+		{
+			"id": "5",
+			"studentName": "anil sharma",
+			"image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/05/09/821449-john-abraham.jpg",
+			"class": "computer class",
+			"address": "delhi ring rode",
+			"emailId": "anil@gmail.com",
+			"phone": "8989909078"
+		}
+
+	],
+	"inactiveStudent": [{
+			"id": "1",
+			"studentName": "anil rajput",
+			"image": "https://pbs.twimg.com/profile_images/1282230048716492803/fduUXbCR_400x400.jpg",
+			"class": "computer",
+			"address": "delhi ring rode",
+			"emailId": "tarun@gmail.com",
+			"phone": "9088990987"
+		},
+		{
+			"id": "2",
+			"studentName": "Rahul sharma",
+			"image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/05/09/821449-john-abraham.jpg",
+			"class": "math",
+			"address": "patna ring rode",
+			"emailId": "rahul11@gmail.com",
+			"phone": "8769098762"
+		},
+		{
+			"id": "3",
+			"studentName": "sunny patel",
+			"image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/05/09/821449-john-abraham.jpg",
+			"class": "cube",
+			"address": "surat ring rode",
+			"emailId": "mahi21@gmail.com",
+			"phone": "8899000099"
+		},
+		{
+			"id": "4",
+			"studentName": "deep panchal",
+			"image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/05/09/821449-john-abraham.jpg",
+			"class": "computer",
+			"address": "bardoli ring rode",
+			"emailId": "jigar@gmail.com",
+			"phone": "9876543210"
+		},
+		{
+			"id": "5",
+			"studentName": "komal sharma",
+			"image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/05/09/821449-john-abraham.jpg",
+			"class": "computer class",
+			"address": "delhi ring rode",
+			"emailId": "anil@gmail.com",
+			"phone": "8989909078"
+		}
+	]
+}
